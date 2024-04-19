@@ -11,3 +11,7 @@ func Barks() string {
 func BigBark() string {
 	return "WOOOF!"
 }
+
+func BigBarks() string {
+	return "WOOOF!WOOOF!WOOOF!WOOOF!WOOOF!WOOOF!"
+}
