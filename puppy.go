@@ -15,3 +15,11 @@ func BigBark() string {
 func BigBarks() string {
 	return "WOOOF!WOOOF!WOOOF!WOOOF!WOOOF!WOOOF!"
 }
+
+func Miau() string {
+	return "Miauuuuuuuuuuuu!"
+}
+
+func Miaus() string {
+	return "Miauuuuuuuuuuuu!Miauuuuuuuuuuuu!Miauuuuuuuuuuuu!"
+}
